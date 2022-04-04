@@ -1,5 +1,36 @@
 # project-prep JaM TeCh
 
+## Wireframes
+
+Page before user login/auth:
+![Wireframe1](./wireframe1.png)
+
+Page after user login/auth:
+![Wireframe2](./wireframe2.png)
+
+WRRC:
+![WRRC](./WRRC.png)
+
+## User Stories
+
+- [User 1: Parent](https://github.com/orgs/jam-t3ch/projects/1#card-80149023)
+- [User 2: College Student](https://github.com/orgs/jam-t3ch/projects/1#card-80149051)
+- [User 3: Worker/Commuter](https://github.com/orgs/jam-t3ch/projects/1#card-80149111)
+- [User 4: Small Business Owner](https://github.com/orgs/jam-t3ch/projects/1#card-80149138)
+- [User 5: Unemployed Person](https://github.com/orgs/jam-t3ch/projects/1#card-80149165)
+
+## Software Requirements
+
+See [requirements.md](./requirements.md)
+
+## Domain Modeling
+
+![Domain Modeling](./domain-modeling.jpeg)
+
+## Database Schema Diagram
+
+![Database Schema Diagram](./schema.png)
+
 ## What are the key strengths of each person on the team?
 
 * Christopher: Google Fu and writing content
@@ -71,7 +102,7 @@ James: Wants to improve communication within a team environment
 * Tai: Availability - M-F 8:30AM -5:30PM 7PM-10PM
 * James: Availability - M-F 8:30 - 6pm; 7-10pm
 * Michael: Availability - M-F 8:30 - 6pm; 7-10pm
-* Christopher: Availability -
+* Christopher: Availability - M-F 8:30 - 6pm; 7-10pm
 
 ## What platforms will you use to communicate (ie. Slack, phone …)?
 
